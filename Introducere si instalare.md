@@ -26,4 +26,7 @@ https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-pr
 # Testare
 Dupa creara proiectului si un fisier cu extensia .py, in cazul nostu Car.py, scrieti in interiorul fisierului print("functioneza") si apasati run. Daca nu este nici o eroare, sunteti buni.
 
+# Abordarea cursului
+Learn Python in the hardway
+Pygames
 
