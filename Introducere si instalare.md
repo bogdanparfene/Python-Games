@@ -10,6 +10,12 @@ https://en.wikipedia.org/wiki/Python_(programming_language)
   - Simple is better than complex
   - Complex is better than complicated
   - Readability counts
+  - Special cases aren't special enough to break the rules.
+  - Errors should never pass silently.
+  - In the face of ambiguity, refuse the temptation to guess.
+  - Now is better than never.
+  - There should be one—and preferably only one—obvious way to do it.
+
     https://en.wikipedia.org/wiki/Zen_of_Python
 
 # Pycharm install
@@ -27,6 +33,6 @@ https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-pr
 Dupa creara proiectului si un fisier cu extensia .py, in cazul nostu Car.py, scrieti in interiorul fisierului print("functioneza") si apasati run. Daca nu este nici o eroare, sunteti buni.
 
 # Abordarea cursului
-Learn Python in the hardway
-Pygames
+Learn Python in the hardway ( 254 )
+https://www.souravsengupta.com/cds2015/python/LPTHW.pdf
 
