@@ -78,6 +78,9 @@ print("Cine-o sa fie specialisti in Python?", specialistii_python)
 task_de_term = [ ]
 print("Ce task-uri mai aveti?: ", task_de_term)
 
+# Plictiseala se duce prin joaca
+https://www.souravsengupta.com/cds2015/python/LPTHW.pdf ( pagina 100-120 in carte ) 
+
 
 
 
