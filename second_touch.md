@@ -33,21 +33,27 @@ print('{:>10}'.format('test'))
 # Sa luam decizii bune cu if-uri
 
 x = 1
+
 if x == 1:
+
     print("Merge")
 # 
 if x is 1:
+
     print("Merge si asa")
 # 
 if x is "1":
+
     print("Cum de merge?")
 # 
 # Bonus pentru if
 #
 if 1 == x:
+
     print("Merge?")
     
 if x = 1:
+
     print("Merge in Python?")
 
 # 
@@ -76,6 +82,7 @@ print("Cine-o sa fie specialisti in Python?", specialistii_python)
 #
 # 
 task_de_term = [ ]
+
 print("Ce task-uri mai aveti?: ", task_de_term)
 
 # Plictiseala se duce prin joaca
