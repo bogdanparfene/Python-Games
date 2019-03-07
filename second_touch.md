@@ -86,7 +86,8 @@ task_de_term = [ ]
 print("Ce task-uri mai aveti?: ", task_de_term)
 
 # Plictiseala se duce prin joaca
-https://www.souravsengupta.com/cds2015/python/LPTHW.pdf ( pagina 100-120 in carte ) 
+ https://github.com/hocchudong/learnpythonthehardway-vn/blob/master/Docs/Learn%20Python%20The%20Hard%20Way%2C%203rd%20Edition%20.pdf
+ ( pagina 100-120 in carte ) (versiunea 3.0) yeah boi!
 
 
 
